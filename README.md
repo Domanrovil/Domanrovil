@@ -38,13 +38,13 @@ I am data analyst with experience in full-stack development, I specialize in usi
 <br/>  
 
 
-## Quick Facts  
+## About Me
 <table><tr><td valign="top" width="50%">
 
 - 📷 I love photography and travel  
   
 
-- 🌱 I’m currently learning R & AWS cloud technology  
+- 🌱 I’m currently learning R & machine learning
   
 
 - 🤝 Looking to collaborate on data analytics 

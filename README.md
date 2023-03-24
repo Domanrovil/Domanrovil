@@ -30,11 +30,7 @@ Here are some ideas to get you started:
 
 
 ### Glad to see you here!  
-I am a data analyst with experience in full-stack and database development. My focus is on using Python, SQL, and Excel, alongside business intelligence tools like Tableau, to create actionable insights for my clients. With my passion for volunteering, I have also had the opportunity to apply my skills to build a full-stack volunteer management system while updating their website as a capstone project with my friends.
-
-My education and experience have allowed me to develop a strong foundation in data modeling, database design, and data analysis. Additionally, I possess the skills to develop back-end systems that can handle large-scale data processing, manage complex data structures, and build data pipelines to support data-driven applications. My passion for designing systems that are efficient yet scalable has helped me to create databases that are optimized for fast retrieval and processing of data.
-
-I take pride in my ability to work collaboratively and communicate complex technical concepts to stakeholders. Through my volunteering experience, I have honed my skills in project management, teamwork, and customer service, which enable me to deliver outstanding results for my clients. Furthermore, I love to stay up to date with emerging technologies and frequently explore new opportunities to expand my knowledge.
+I am data analyst with experience in full-stack development, I specialize in using Python, SQL, Excel, and business intelligence tools such as Tableau to generate actionable insights. My education and experience have given me a strong foundation in data modeling, database design, and data analysis, and I am skilled in developing back-end systems that can manage complex data structures and handle large-scale data processing. Through my passion for designing efficient and scalable systems, I create databases that are optimized for fast data retrieval and processing. I love working with non-profit organizations and giving my time to work alongside incredible individuals trying to make a the world a better place. I am always seeking to expand my knowledge and stay up-to-date with the latest technologies.
 
   
   

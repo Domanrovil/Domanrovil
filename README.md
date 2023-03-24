@@ -42,7 +42,7 @@ I take pride in my ability to work collaboratively and communicate complex techn
 <br/>  
 
 
-## Rapidfire  
+## Quick Facts  
 <table><tr><td valign="top" width="50%">
 
 - 📷 I love photography and travel  
@@ -51,7 +51,7 @@ I take pride in my ability to work collaboratively and communicate complex techn
 - 🌱 I’m currently learning R & AWS cloud technology  
   
 
-- 🤝 Looking to collaborate on data analytics &  
+- 🤝 Looking to collaborate on data analytics 
   
 
 - ⚡ I love to help with non-profit & charitable organizations.   

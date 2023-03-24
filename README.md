@@ -32,32 +32,23 @@ I am data analyst with experience in full-stack development, I specialize in usi
   
   
 
-<br/>  
-
 
 ## About Me
-<table><tr><td valign="top" width="50%">
-
-- 📷 I love photography and travel  
-  
-
-- 🌱 I’m currently learning R & machine learning
-  
-
-- 🤝 Looking to collaborate on data analytics 
-  
-
-- ⚡ I love to help with non-profit & charitable organizations.   
 
 
-</td><td valign="top" width="50%">
+- 📷 &nbsp;I love photography and travel  
+- 🌱 &nbsp;I’m currently learning R & machine learning
+- 🤝 &nbsp;Looking to collaborate on data analytics 
+- ⚡ &nbsp;I love to help with non-profit & charitable organizations
+- 📝 &nbsp; Checkout my [Resume](resume).
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
-</td></tr></table>  
+
+
+
+
+
 
 <br/>  
 

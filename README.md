@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hello 👋, I'm Domanrovil Ovalle!  
   
 [![](https://img.shields.io/badge/LinkedIn-DomanrovilOvalle-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/domanrovil-ovalle/)
-[![](https://img.shields.io/badge/Gmail-DomanrovilOvalle%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:domanrovil.ovalle@gmail.com)
+[![](https://img.shields.io/badge/Gmail-domanrovil.ovalle%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:domanrovil.ovalle@gmail.com)
 
 <a href="https://dev.to/Domanrovil" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -90,12 +90,4 @@ I am data analyst with experience in full-stack development, I specialize in usi
 
 <br/>  
 
-  
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 
 
 
-### Glad to see you here!  
+### About Me!  
 I am data analyst with experience in full-stack development, I specialize in using Python, SQL, Excel, and business intelligence tools such as Tableau to generate actionable insights. My education and experience have given me a strong foundation in data modeling, database design, and data analysis, and I am skilled in developing back-end systems that can manage complex data structures and handle large-scale data processing. Through my passion for designing efficient and scalable systems, I create databases that are optimized for fast data retrieval and processing. I love working with non-profit organizations and giving my time to work alongside incredible individuals trying to make a the world a better place. I am always seeking to expand my knowledge and stay up-to-date with the latest technologies.
 
   
   
 
 
-## About Me
+## Some Extra Things About Me
 
 
 - 📷 &nbsp;I love photography and travel  

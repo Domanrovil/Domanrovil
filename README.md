@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width =100%  src = "https://github.com/Domanrovil/Domanrovil/blob/Main/images/WhiteMinimalist%20Aesthetic.jpg">
+
+
 ## Hello 👋, I'm Domanrovil Ovalle!  
   
 [![](https://img.shields.io/badge/LinkedIn-DomanrovilOvalle-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/domanrovil-ovalle/)

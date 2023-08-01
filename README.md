@@ -37,8 +37,8 @@ I am data analyst with experience in full-stack development, I specialize in usi
 
 - 📷 &nbsp;I love photography and travel  
 - 🌱 &nbsp;I’m currently learning R & machine learning
-- 🤝 &nbsp;Looking to collaborate on data analytics 
-- ⚡ &nbsp;I love to help with non-profit & charitable organizations
+- 🤝 &nbsp;Open to collaborate on data analytics or front-end work 
+- ⚡ &nbsp;I love to working with non-profit & charitable organizations
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Domanrovil/Domanrovil/blob/Main/images/ResumeDomanrovilOvalle.pdf).
 
 

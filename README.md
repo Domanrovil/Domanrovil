@@ -35,7 +35,7 @@ I am a server test technician and data analyst who enjoys coding and working wit
 ## Some Extra Things About Me
 
 - 📷 &nbsp;I love photography and hiking
-- 🌱 &nbsp;I’m currently learning R & machine learning
+- 🌱 &nbsp;I’m currently learning AWS & Machine Learning
 - 🤝 &nbsp;Open to collaborate on data analytics, databases construction, and back-end
 - ⚡ &nbsp;I love to work with non-profit & charitable organizations
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Domanrovil/Domanrovil/blob/Main/images/ResumeDomanrovilOvalle.pdf).
